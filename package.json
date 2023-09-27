@@ -1,6 +1,7 @@
 {
   "name": "fro",
   "version": "0.1.0",
+  "homepage":"https://github.com/bk9a/Bodyhacker.git",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
@@ -42,7 +43,7 @@
     "deploy" : "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "homepage":"https://github.com/bk9a/Bodyhacker.git",
+
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
